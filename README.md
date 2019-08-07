@@ -12,8 +12,8 @@ Feel free to add more appropriate layers to create deeper NN.
 
 Prerequisites:
 
-Tensorflow
-Keras
-Numpy
-Pandas
+Tensorflow,
+Keras,
+Numpy,
+Pandas,
 Sklearn
